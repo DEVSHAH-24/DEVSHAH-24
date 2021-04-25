@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ I am Dev Shah, a sophomore at BITS Pilani, Rajasthan. I enjoy analysing and building products. 
 <!--
 **DEVSHAH-24/DEVSHAH-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
