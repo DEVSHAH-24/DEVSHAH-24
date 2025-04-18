@@ -1,5 +1,6 @@
 ### Hi there 👋
- I am Dev Shah, currently working on Ads at Sharechat. I particularly enjoy analyzing and building products. Feel free to reach out on other platforms via the link for ideas, discussions and collaborations! Cheers!
+I am Dev Shah, currently working on engagement products at CRED. 
+Prior to this I spent some time working on Ads monetisation at Sharechat as a Product Analyst. I particularly enjoy analyzing and building products. Feel free to reach out on other platforms via the link for ideas, discussions and collaborations! Cheers!
 <!--
 **DEVSHAH-24/DEVSHAH-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
